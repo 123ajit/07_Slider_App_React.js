@@ -1,4 +1,5 @@
 # 07_Slider_App_React.js
+![image](https://user-images.githubusercontent.com/14126987/134810247-33d20106-386f-44b5-8d7f-81b9959d4348.png)
 
 # Available Scripts
 
